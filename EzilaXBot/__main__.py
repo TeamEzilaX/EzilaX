@@ -76,7 +76,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = f"""
-🌺Hey there! My name is [Ezila]("https://telegra.ph/file/0316ea3d18fcd52a03194.jpg").
+🌺Hey there! My name is Ezila.
 
 I can help manage your groups with useful features, feel free to add me to your groups!
 Project By @Ezila_Updates ❤
@@ -108,7 +108,7 @@ buttons = [
 HELP_STRINGS = """
 Hi.. I'm EzilaX 
 Click On The Buttons Below To Get Documentation About Specific Modules..
-Powered by @Ezila_Updates 💓 [️️ ️](https://telegra.ph/file/0316ea3d18fcd52a03194.jpg) """
+Powered by @Ezila_Updates 💓  """
 
 
 DONATE_STRING = """Hey, glad to hear you want to donate!
